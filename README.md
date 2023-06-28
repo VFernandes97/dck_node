@@ -8,4 +8,4 @@ Caso queira clonar este repositório e testar a aplicação rode os comandos aba
 
 docker build -t nodeapp:0.1 https://github.com/VFernandes97/dck_node.git\#main
 
-docker run -d -e PORT=3000 node:0.1
+docker run -d -e PORT=3000 nodeapp:0.1
