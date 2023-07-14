@@ -1,6 +1,6 @@
 Repositório com o objetivo de subir de forma simples uma aplicação em Javascript para aprender sobre Build de imagens.  
 
-Créditos: Conhecimentos adquiridos na comunidade Devops by Mateus Muller.  
+
 
 Dentro dos arquivos realizei anotações sobre o aprendizado espero que ajude !  
 
@@ -15,4 +15,6 @@ docker run -d -e PORT=3000 nodeapp:0.1
 
 OPÇÃO 2 (AUTOMATIZADO)
 
-docker-compose up
+docker-compose up  
+
+Créditos: Conhecimentos adquiridos na comunidade Devops by Mateus Muller.  
